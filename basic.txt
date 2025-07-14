@@ -284,9 +284,6 @@
 	בורסת ישראל
 	http://www.tase.co.il/Heb/Pages/Homepage.aspx
 
-	שערי מט"ח
-	http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
-
 
 %% מודיעין
 
