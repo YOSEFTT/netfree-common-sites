@@ -282,8 +282,10 @@
 %% כלכלה
 
 	בורסת ישראל
-	http://www.tase.co.il/Heb/Pages/Homepage.aspx
+	http://www.tase.co.il/Heb/Pages/Homepage.aspx1
 
+	שערי מט"ח
+	https://www.boi.org.il/roles/markets/exchangerates/
 
 %% מודיעין
 
